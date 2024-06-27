@@ -1,0 +1,65 @@
+{
+    "users": [
+                    {
+                      "id": 1,
+                      "name": "John Doe",
+                      "username": "johndoe",
+                      "email": "johndoe@example.com",
+                      "address": {
+                        "street": "123 Elm St",
+                        "city": "Springfield",
+                        "state": "IL",
+                        "zip": "62701"
+                      }
+                    },
+                    {
+                      "id": 2,
+                      "name": "Jane Smith",
+                      "username": "janesmith",
+                      "email": "janesmith@example.com",
+                      "address": {
+                        "street": "456 Maple Ave",
+                        "city": "Madison",
+                        "state": "WI",
+                        "zip": "53703"
+                      }
+                    },
+                    {
+                      "id": 3,
+                      "name": "Alice Johnson",
+                      "username": "alicej",
+                      "email": "alicej@example.com",
+                      "address": {
+                        "street": "789 Oak Dr",
+                        "city": "Denver",
+                        "state": "CO",
+                        "zip": "80203"
+                      }
+                    },
+                    {
+                      "id": 4,
+                      "name": "Bob Brown",
+                      "username": "bobb",
+                      "email": "bobb@example.com",
+                      "address": {
+                        "street": "321 Pine St",
+                        "city": "Austin",
+                        "state": "TX",
+                        "zip": "73301"
+                      }
+                    },
+                    {
+                      "id": 5,
+                      "name": "Carol White",
+                      "username": "carolw",
+                      "email": "carolw@example.com",
+                      "address": {
+                        "street": "654 Cedar Ave",
+                        "city": "San Francisco",
+                        "state": "CA",
+                        "zip": "94103"
+                      }
+                                      
+            }
+        ]
+    }
